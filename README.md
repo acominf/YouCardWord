@@ -37,8 +37,8 @@ La descripción del juego/aplicación es ...
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Nombre completo del autor 1 (@DragonmasterNa)
+- Nombre completo del autor 2 (@marbalexbriones)
 
 ### Materia(s)
 - Programación Orientada a Objetos
