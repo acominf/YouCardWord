@@ -37,7 +37,7 @@ La descripción del juego/aplicación es ...
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Roberto Ignacio Zapata Govea @DragonmasterNa
+- Roberto Ignacio Zapata Govea @NaNiver
 - Manuel Alejandro Robledo Briones @marbalexbriones
 
 ### Materia(s)
