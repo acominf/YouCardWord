@@ -1,7 +1,7 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
-### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+### YouCardWord
+YouCardWord Es un juego divertido y emocionante con el que podras aprender repasar la estructura de diferentes palabras en el idioma inglés, basado en el ppopular juego "Hearstone: Heroes of Warcraft"
 
 ### Descripción del juego/aplicación
 La descripción del juego/aplicación es ...
