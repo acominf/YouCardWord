@@ -8,7 +8,7 @@ La descripción del juego/aplicación es ...
 
 ### Clases principales y sus características
 1. Clase 1
-* caracteristica1
+* caracteristicaa1
 * caracteristica2
 * caracteristica3
 
