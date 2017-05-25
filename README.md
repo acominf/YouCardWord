@@ -50,7 +50,7 @@ La maquina jugará de forma automática, y el objetivo será vencerla antes de q
 * Esta clase es usada por mazo, mano y tablero de: jugador y computadora.
 
 ### Diagrama de clases
-https://www.lucidchart.com/publicSegments/view/2e8d115d-7b51-4ff5-b62f-f0791fd4fdef
+https://www.lucidchart.com/documents/view/4ee17192-e434-414b-8560-a1813f799770
 
 ### Autor(es)
 El autor(es) del proyecto son:
