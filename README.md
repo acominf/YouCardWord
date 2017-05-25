@@ -8,6 +8,10 @@ El juego se centra en formar frases en inglés por medio de cartas, las dos posi
 * Noun + Verb
 * Noun + Verb + Conjuntion + Noun + Verb
 
+Ejemplos:
+* THE DOG + RUN ó
+* THE GIRL + SLEEP + WHILE + THE BABY + CRY.
+
 Se tiene como inicio el turno del jugador:
 * El mazo cuenta con 40 cartas.
 * Se utilizan Q,W,E,R,T,Y,U para selecciónar cuál carta se desea jugar y A para finalmente jugar dicha carta.
