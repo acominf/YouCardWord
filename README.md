@@ -20,6 +20,7 @@ Se tiene como inicio el turno del jugador:
 * El turno no finaliza hasta dar clic en el botón amarillo que dice "Finish turn".
 * El tiempo aplica una suma de puntos a cada verbo que esté jugado en el tablero: Future +1, Simple past +2, Participle past +3.
 * No importa el orden en que estén acomodadas las cartas, siempre y cuando respeten la suma, se obtendrá el daño correcto.
+* Cualquier combinación diferente generará un pequeño ataque, mucho menor al ataque generado por una frase completa.
 La maquina jugará de forma automática, y el objetivo será vencerla antes de que ella lo haga a nosotros.
 
 ### Clases principales y sus características
