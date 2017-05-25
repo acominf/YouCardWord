@@ -15,7 +15,7 @@ Ejemplos:
 Se tiene como inicio el turno del jugador:
 * El mazo cuenta con 40 cartas.
 * Se utilizan Q,W,E,R,T,Y,U para selecciónar cuál carta se desea jugar y A para finalmente jugar dicha carta.
-* Se inicia con 5 cartas.
+* Se inicia con 5 cartas en la mano.
 * Se pueden tomar hasta 3 cartas por turno, con un límite de 7 en la mano.
 * El turno no finaliza hasta dar clic en el botón amarillo que dice "Finish turn".
 * El tiempo aplica una suma de puntos a cada verbo que esté jugado en el tablero: Future +1, Simple past +2, Participle past +3.
