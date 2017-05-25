@@ -7,6 +7,7 @@ YouCardWord Es un juego divertido y emocionante con el que podras aprender repas
 El juego se centra en formar frases en inglés por medio de cartas, las dos posibilidades de frases que permiten un mayor daño son:
 * Noun + Verb
 * Noun + Verb + Conjuntion + Noun + Verb
+
 Se tiene como inicio el turno del jugador:
 * El mazo cuenta con 40 cartas.
 * Se utilizan Q,W,E,R,T,Y,U para selecciónar cuál carta se desea jugar y A para finalmente jugar dicha carta.
