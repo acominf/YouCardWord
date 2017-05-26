@@ -1,5 +1,6 @@
 ![YouCardWord](http://i.imgur.com/gth1Zke.jpg)
 
+
 ### YouCardWord
 YouCardWord Es un juego divertido y emocionante con el que podras aprender repasar la estructura de diferentes palabras en el idioma inglés, basado en el ppopular juego "Hearstone: Heroes of Warcraft"
 
@@ -7,6 +8,8 @@ YouCardWord Es un juego divertido y emocionante con el que podras aprender repas
 El juego se centra en formar frases en inglés por medio de cartas, las dos posibilidades de frases que permiten un mayor daño son:
 * Noun + Verb
 * Noun + Verb + Conjuntion + Noun + Verb
+
+                                                                      ![YouCardWord](http://i.imgur.com/IhhRuCu.png)
 
 Ejemplos:
 * THE DOG + RUN ó
