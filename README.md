@@ -9,7 +9,7 @@ El juego se centra en formar frases en inglés por medio de cartas, las dos posi
 * Noun + Verb
 * Noun + Verb + Conjuntion + Noun + Verb
 
-                                                                      ![YouCardWord](http://i.imgur.com/IhhRuCu.png)
+![Card](http://i.imgur.com/IhhRuCu.png)
 
 Ejemplos:
 * THE DOG + RUN ó
