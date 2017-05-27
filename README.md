@@ -1,4 +1,4 @@
-![YouCardWord](https://scontent.fgdl3-1.fna.fbcdn.net/v/t31.0-8/18700537_1681478655200459_5470767357924799890_o.png?oh=9d7891cfd6b85e9d2e5a4d5ccb0b8389&oe=59BC7262)
+![YouCardWord](https://github.com/acominf/YouCardWord/blob/master/LOGO%20YCW.png)
 
 
 ### YouCardWord
