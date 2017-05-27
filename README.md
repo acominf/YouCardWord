@@ -1,4 +1,4 @@
-![YouCardWord](https://github.com/acominf/YouCardWord/blob/master/LOGO%20YCW.png)
+![YouCardWord](https://github.com/acominf/YouCardWord/blob/master/LOGO%20YCW.png?raw=true)
 
 
 ### YouCardWord
