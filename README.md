@@ -9,7 +9,7 @@ El juego se centra en formar frases en inglés por medio de cartas, las dos posi
 * Noun + Verb
 * Noun + Verb + Conjuntion + Noun + Verb
 
-![Card](https://github.com/acominf/YouCardWord/blob/master/has%20flown.png) ![Card2](https://github.com/acominf/YouCardWord/blob/master/cry.png) ![Card3](https://github.com/acominf/YouCardWord/blob/master/will%20run.png)
+![Card](https://github.com/acominf/YouCardWord/blob/master/cry.png?raw=true) ![Card2](https://github.com/acominf/YouCardWord/blob/master/will%20run.png?raw=true) ![Card3](https://github.com/acominf/YouCardWord/blob/master/has%20flown.png?raw=true)
 
 Ejemplos:
 * THE DOG + RUN ó
