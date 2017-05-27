@@ -9,7 +9,7 @@ El juego se centra en formar frases en inglés por medio de cartas, las dos posi
 * Noun + Verb
 * Noun + Verb + Conjuntion + Noun + Verb
 
-![Card](https://lh3.googleusercontent.com/XeMiI_FCKtZdBCuYSwmdb25TE8TP29E5NZILNpT3NVeRIIyHR71_DCpshPeaXM9xrICq1bRemntjKDg=w1920-h971) ![Card2](https://lh3.googleusercontent.com/z19dmiqijs43w88GgxK7AmtBcRIjNcLKUAB5XkHKKyTqtDvAlaYQ2a8BEIIN1QlhG6PkwjTCroV-C7U=w1920-h971) ![Card3](https://lh3.googleusercontent.com/6kQJ_OD26By4uq7PXGr1Hrc5fG1KBC4BsPQcE_7LZg8wb5zzHGso4opiWuafXDbBpMmZYU1_Ut5y58c=w1920-h971)
+![Card](https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/18670970_1681477285200596_4226131143494742345_n.png?oh=aa2f52fa3418fb3150589b33405d7ed0&oe=59AFEB0A) ![Card2](https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/18740259_1681477278533930_8745701218070817224_n.png?oh=5ab9aac1721988a45acefb1dcaac7ff3&oe=59B15816) ![Card3](https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/18740388_1681477288533929_2053864633726795815_n.png?oh=35b99e3981e1b3c592e5f51dccb722f5&oe=59AE17C4)
 
 Ejemplos:
 * THE DOG + RUN ó
