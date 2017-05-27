@@ -9,7 +9,7 @@ El juego se centra en formar frases en inglés por medio de cartas, las dos posi
 * Noun + Verb
 * Noun + Verb + Conjuntion + Noun + Verb
 
-![Card](https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/18670970_1681477285200596_4226131143494742345_n.png?oh=aa2f52fa3418fb3150589b33405d7ed0&oe=59AFEB0A) ![Card2](https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/18740259_1681477278533930_8745701218070817224_n.png?oh=5ab9aac1721988a45acefb1dcaac7ff3&oe=59B15816) ![Card3](https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/18740388_1681477288533929_2053864633726795815_n.png?oh=35b99e3981e1b3c592e5f51dccb722f5&oe=59AE17C4)
+![Card](https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/18670970_1681477285200596_4226131143494742345_n.png?oh=aa2f52fa3418fb3150589b33405d7ed0&oe=59AFEB0A) ![Card2](https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.0-9/18740259_1681477278533930_8745701218070817224_n.png?oh=5ab9aac1721988a45acefb1dcaac7ff3&oe=59B15816) ![Card3](https://github.com/acominf/YouCardWord/blob/master/will%20run.png)
 
 Ejemplos:
 * THE DOG + RUN ó
