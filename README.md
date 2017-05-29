@@ -58,6 +58,9 @@ La maquina jugará de forma automática, y el objetivo será vencerla antes de q
 ### Vídeo
 <https://www.youtube.com/embed/LPlydSnEi4Q>
 
+### Enlace del Proyecto
+<https://drive.google.com/open?id=0B3Op6qmmBAG9UEsxOFQ2UDI1VGs>
+
 ### Autor(es)
 El autor(es) del proyecto son:
 - Roberto Ignacio Zapata Govea @NaNiver
