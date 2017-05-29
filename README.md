@@ -56,7 +56,7 @@ La maquina jugará de forma automática, y el objetivo será vencerla antes de q
 <https://www.lucidchart.com/documents/view/4ee17192-e434-414b-8560-a1813f799770>
 
 ### Vídeo
-<https://www.youtube.com/embed/ojbyeLdS5VU>
+<https://www.youtube.com/embed/LPlydSnEi4Q>
 
 ### Autor(es)
 El autor(es) del proyecto son:
